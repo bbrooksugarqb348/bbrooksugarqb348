@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm bbrooksugarqb348
 
-<!--
-**bbrooksugarqb348/bbrooksugarqb348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎤 🏄 🏸 A keen learner of web development 🎤 🏄 🏸
 
-Here are some ideas to get you started:
+## About Me
+🌈 🏄 🎾 🏏 A programmer in computer vision 🌈 🏄 🎾 🏏
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎨 🎷 Curious about programming languages 🎨 🎷
+
+### Fun Facts
+🎽 🥋 A lover of cybersecurity 🎽 🥋
+
+---
+🥋 🏄 🎮 🎭 🥊 Thanks for visiting my profile! 🛶 🚴 🎱 🛹 🏸
